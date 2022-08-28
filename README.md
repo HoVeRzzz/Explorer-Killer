@@ -1,5 +1,5 @@
 # Explorer-Killer
-Explorer-Killer is an open-source script written in python with the simple purpose of providing a quick and effective way to kill and start explorer.exe (file manager application that is included with releases of the Microsoft Windows operating system).
+Explorer-Killer is an open-source script written in C with the simple purpose of providing a quick and effective way to kill and start explorer.exe (file manager application that is included with releases of the Microsoft Windows operating system).
 
 ## But what is this for?
    The explorer.exe process is widely known to be a process that uses a high number of **CPU cycles delta**, which can affect your gaming experience, so it is important to kill explorer.exe so that you have an experience smoother and without stuttering. 
